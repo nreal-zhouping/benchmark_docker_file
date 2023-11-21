@@ -1,0 +1,16 @@
+altair<5
+mysql-connector-python
+matplotlib
+matplotlib-inline
+Pillow
+plotly
+opencv-python
+pandas
+streamlit
+extra_streamlit_components
+streamlit_tags
+pyyaml
+fpdf
+scipy
+scikit-learn
+psutil
